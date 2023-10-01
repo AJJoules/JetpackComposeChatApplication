@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.hngx.aichat"
+    namespace = "ng.com.ajsprojects.aichat"
     compileSdk = 34
 
     defaultConfig {
